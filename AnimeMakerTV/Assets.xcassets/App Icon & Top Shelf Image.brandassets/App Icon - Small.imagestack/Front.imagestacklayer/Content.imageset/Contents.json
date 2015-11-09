@@ -2,6 +2,7 @@
   "images" : [
     {
       "idiom" : "tv",
+      "filename" : "am-tvos_400x240_front.png",
       "scale" : "1x"
     }
   ],
